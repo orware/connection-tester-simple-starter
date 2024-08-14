@@ -6,3 +6,6 @@ owner: orware
 package: .
 scaling:
   mode: single_concurrency
+locality:
+  regions:
+  - us-ashburn
