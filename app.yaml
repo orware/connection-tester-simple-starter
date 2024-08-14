@@ -1,0 +1,8 @@
+domains:
+- php-starter-orware.wasmer.app
+kind: wasmer.io/App.v0
+name: orware-connection-tester-simple-starter
+owner: orware
+package: .
+scaling:
+  mode: single_concurrency
