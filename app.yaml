@@ -1,11 +1,12 @@
-domains:
-- php-starter-orware.wasmer.app
 kind: wasmer.io/App.v0
 name: orware-connection-tester-simple-starter
 owner: orware
 package: .
+domains:
+- connection-tester-simple.wasmer.app
 scaling:
   mode: single_concurrency
 locality:
   regions:
   - us-ashburn
+app_id: da_2dAIdtrU0NWK
